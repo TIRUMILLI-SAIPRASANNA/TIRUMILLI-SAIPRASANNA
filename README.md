@@ -54,7 +54,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-📧 Email: your.email@example.com
+📧 Email: saiprasannatirumilli96@gmail.com
 
 ---
 
