@@ -39,11 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sai Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIRUMILLI-SAIPRASANNA&show_icons=true&theme=radical)
-
----
 
 ## 👀 Visitor Counter
 
