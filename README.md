@@ -8,8 +8,8 @@
 
 ## 🚀 Projects
 
-- 🧠 [AI Content Generator](https://github.com/TIRUMILLI-SAIPRASANNA/ai-content-generator) *(Ongoing)*  
-  Full-stack SAAS using Next.js, Clerk, Eden AI, and Uploadthing
+- 🧠 [AI RESUME ANALYZER](https://github.com/TIRUMILLI-SAIPRASANNA/ai-resume-analyzer)  
+  frontend using React 19, Tailwind CSS, OpenAI API, Eden AI ,Animate.css
 
 - 💹 [Stock Exchange Management System](https://github.com/TIRUMILLI-SAIPRASANNA/STOCK-EXCHANGE-MANAGEMENT)  
   Simulated trading system using Python with features like order matching, trade logs, and admin interface
