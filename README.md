@@ -9,7 +9,7 @@
 ## 🚀 Projects
 
 - 🍔[ Food Ordering App](https://github.com/TIRUMILLI-SAIPRASANNA/food-ordering-app)
-   A modern cross-platform food ordering mobile app built using Expo, React Native, and Expo Router.
+   A modern cross-platform food ordering mobile app built using Expo, React Native, and Expo Router, TypeScript
 
 - 🧠 [AI RESUME ANALYZER](https://github.com/TIRUMILLI-SAIPRASANNA/ai-resume-analyzer)  
   frontend using React 19, Tailwind CSS, OpenAI API, Eden AI , Animate.css
