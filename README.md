@@ -6,16 +6,32 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 My Projects
 
-- 🍔[ Food Ordering App](https://github.com/TIRUMILLI-SAIPRASANNA/food-ordering-app)
-   A modern cross-platform food ordering mobile app built using Expo, React Native, and Expo Router, TypeScript
+- 🍔 **[Food Ordering App](https://github.com/TIRUMILLI-SAIPRASANNA/food-ordering-app)**  
+  A modern **cross-platform food ordering mobile app** built with:
+  - **Expo**, **React Native**, **Expo Router**
+  - **TypeScript** for type safety
+  - Sleek UI for smooth user experience
 
-- 🧠 [AI RESUME ANALYZER](https://github.com/TIRUMILLI-SAIPRASANNA/ai-resume-analyzer)  
-  frontend using React 19, Tailwind CSS, OpenAI API, Eden AI , Animate.css
+- 🧠 **[AI Resume Analyzer](https://github.com/TIRUMILLI-SAIPRASANNA/ai-resume-analyzer)**  
+  Frontend project using:
+  - **React 19**, **Tailwind CSS**
+  - Integration with **OpenAI API** & **Eden AI**
+  - Animated UI effects with **Animate.css**
 
-- 💹 [Stock Exchange Management System](https://github.com/TIRUMILLI-SAIPRASANNA/STOCK-EXCHANGE-MANAGEMENT)  
-  Simulated trading system using Python with features like order matching, trade logs, and admin interface
+- 💹 **[Stock Exchange Management System](https://github.com/TIRUMILLI-SAIPRASANNA/STOCK-EXCHANGE-MANAGEMENT)**  
+  A **simulated trading platform** in **Python** with:
+  - Order matching engine
+  - Trade logs & history
+  - Admin interface to manage the market
+
+- 🚗 **[Uber Clone](https://github.com/TIRUMILLI-SAIPRASANNA/uber-video-main)**  
+  A **real-time ride booking app** featuring:
+  - User & driver authentication
+  - Live ride tracking on maps
+  - Real-time notifications using **Socket.IO**
+  - Frontend with **React**, backend with **Node.js/Express**
 
 ---
 
